@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi 👋, I'm Dominic Dang
+
+# I'm a enthusiastic C++ Developer
+
+- 🔭 I'm currently working on building a [fullstack twitter clone](https://github.com/dom1153/ynot-twclone)
+- 🌱 I'm currently learning full stack web development
+- 💬 Ask me about mechinical keyboards, Nix, and NixOS
+- 📫 You can reach out to me at dominicdangjobs@gmail.com
 
 <!--
 **dom1153/dom1153** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +21,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
