@@ -16,13 +16,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dom1153&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-### Connect with me on LinkedIn
+### Connect with me on LinkedIn:
 
 <div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
 </div>
 
-### Languages and Tools
+### Languages and Tools:
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
